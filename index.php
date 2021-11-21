@@ -110,3 +110,4 @@ require 'funciones.php';
 
   </body>
 </html>
+//HORAS PERDIDAS 156H
