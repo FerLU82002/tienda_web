@@ -15,4 +15,3 @@ if($_SERVER['REQUEST_METHOD'] ==='POST'){//validar si la iinfromacion que estamo
   
     header('Location: carrito.php');
 }
- 
